@@ -1,0 +1,1874 @@
+#bottom hr {
+    background-color: #383738;
+    border-style: none;
+}
+
+#draft-status {
+    color: #ffffff;
+}
+
+#filename-input {
+    color: #ffffff;
+}
+
+#main {
+    background-color: #474747;
+}
+
+#period-popup {
+    background-color: #383738;
+    color: #383738;
+}
+
+#revision-details {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+#revision-numbers {
+    color: #ffffff;
+}
+
+#revision-numbers strong {
+    color: #ffffff;
+}
+
+#suggested-topics .topic-statuses .topic-status i {
+    color: #F7C41D;
+}
+
+#suggested-topics h3 {
+    color: #ffffff;
+}
+
+#topic-progress {
+    background-color: #33464a;
+    color: #ffffff;
+    text-transform: none;
+    border-bottom-width: 1px;
+    border-color: #ffffff;
+    border-style: solid;
+}
+
+#topic-progress-expanded {
+    background-color: #323f42;
+    border-style: none;
+}
+
+#user-card .usercard-controls a {
+    position: relative;
+    right: 10px;
+}
+
+#user-query {
+    background-color: #a3a3a3;
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+#wmd-preview {
+    background-color: #474747;
+}
+
+,i.fa.fa-comment {
+    color: #F7C41D;
+}
+
+.active {
+    background-color: #6e6e6e;
+}
+
+.autocomplete ul {
+    background-color: #474747;
+}
+
+.autocomplete ul li a[href].selected {
+    background-color: transparent;
+}
+
+.badge-section {
+    border-style: none ;
+}
+
+.badge-wrapper span {
+    line-height: 24px;
+}
+
+.category-breadcrumb li.bar>.badge-category {
+    background-color: #474747;
+    color: White;
+}
+
+.d-dropdown#notifications-dropdown .fa {
+    color: #919191;
+}
+
+.embedded-posts .topic-body {
+    background-color: #474747;
+}
+
+.extra-info .badge-wrapper {
+    margin: -5px 0 0 2px;
+}
+
+.list-controls .badge-category {
+    line-height: 24px;
+}
+
+.list-controls .category-dropdown-menu {
+    background-color: #474747;
+}
+
+.modal-inner-container {
+    border-style: none;
+}
+
+.moderator .topic-body {
+    background-color: transparent;
+}
+
+.topic-list {
+    border-style: none;
+}
+
+.topic-list > tbody > tr:nth-child(2n) {
+    background-color: #595959;
+}
+
+.topic-list > tbody > tr:nth-child(2n+1) {
+    background-color: #666666;
+}
+
+.topic-list.categories .category .clear-badge {
+    color: #ffffff;
+}
+
+.topic-list.categories a.title {
+    color: #ffffff;
+}
+
+.topics-loading {
+    background-color: #474747 ;
+    background-image: url(http://www.lettersmarket.com/uploads/lettersmarket/blog/loaders/common_metal/ajax_loader_metal_512.gif) ;
+}
+
+.user-badge {
+    border: 2px solid #ffd700 ;
+}
+
+.user-navigation {
+    margin-top: 0px;
+    width: 257px;
+}
+
+.username.Sponge_Leader:after {
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 1em
+;
+    font-weight: normal ;
+    line-height: 1.1;
+    margin: 0 0 0 5px;
+    padding: 2px 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.username.developers:after {
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: normal ;
+    line-height: 1.1;
+    margin: 0 0 0 5px;
+    padding: 2px 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.username.support:after {
+    background: #59A6D9;
+    border-radius: 2px;
+    color: #fff;
+    content: "Sponge Support";
+    display: inline-block;
+    font-size: 1em;
+    font-weight: normal ;
+    line-height: 1.1;
+    margin: 0 0 0 5px;
+    padding: 2px 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+Style Attribute {
+    color: transparent;
+}
+
+a p span {
+    color: #007bff;
+}
+
+a.active {
+    color: #ffffff;
+}
+
+a.badge-category {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+a.badge-category.category-dropdown-button.home:hover {
+    background-color: #F7C41D;
+}
+
+a.badge-category.home {
+    background-color: #474747;
+    border-style: none;
+    color: #ffffff;
+}
+
+a.badge-category.home:hover {
+    background-color: #F7C41D;
+    color: #fff;
+}
+
+a.badge-category.restricted {
+}
+
+a.badge-link {
+    color: #F7C41D;
+}
+
+a.badge-link:hover {
+    background-color: #474747 ;
+    color: #ffffa6;
+}
+
+a.badge-posts.heatmap- {
+    color: #c2c2c2;
+}
+
+a.badge.badge-notification {
+    color: #c2c2c2;
+}
+
+a.badge.new-posts.badge-notification {
+    background-color: #F7C41D;
+    color: #383738;
+    font-weight: bold;
+}
+
+a.badge.new-topic.badge-notification {
+    background-color: #383738;
+    color: #F7C41D;
+    font-weight: bold;
+}
+
+a.badge.unread.badge-notification {
+    background-color: #F7C41D;
+    color: #383738;
+    font-weight: bold;
+}
+
+a.btn {
+    background-color: #919191;
+    margin-left: 10px;
+}
+
+a.btn.btn-danger.right {
+    color: #ffffff;
+}
+
+a.diff-del {
+    background-color: #474747;
+}
+
+a.diff-ins {
+    background-color: #474747;
+}
+
+a.diff-ins strong {
+    background-color: #474747;
+}
+
+a.diff-ins strong ins {
+    background-color: #474747;
+}
+
+a.ember-view.active {
+    background-color: transparent;
+}
+
+a.ember-view.badge-info {
+    color: #fff7ff;
+}
+
+a.ember-view.btn {
+    background-color: #007bff ;
+}
+
+a.ember-view.btn.active {
+    background-color: #007bff ;
+    margin-right: 5px;
+}
+
+a.ember-view.btn.btn-small.pad-left.no-text {
+    background-color: #e9e9e9;
+    color: #222;
+}
+
+a.ember-view.btn.more-user-badges {
+    background-color: transparent;
+    border-color: #F7C41D;
+    border-style: none;
+    border-width: 2px;
+}
+
+a.ember-view.btn.more-user-badges:hover {
+    background-color: #787878;
+}
+
+a.ember-view.btn:hover {
+    background-color: #787878;
+}
+
+a.ember-view:hover {
+    background-color: transparent;
+    color: #ffffa6;
+}
+
+a.faq-link {
+    color: #F7C41D;
+}
+
+a.faq-link:hover {
+    background-color: #474747 ;
+    color: #ffffa6;
+}
+
+a.icon {
+    background-color: #142833;
+}
+
+a.keyboard-shortcuts-link {
+    color: #F7C41D;
+}
+
+a.keyboard-shortcuts-link:hover {
+    background-color: #474747 ;
+    color: #ffffa6;
+}
+
+a.latest-topics-link {
+    color: #F7C41D ;
+}
+
+a.latest-topics-link:hover {
+    background-color: #474747 ;
+    color: #ffffa6;
+}
+
+a.mention {
+    background-color: transparent;
+    color: #F7C41D;
+}
+
+a.reply-to-tab span {
+    color: #F7C41D ;
+    margin-right: 5px;
+}
+
+a.select2-choice {
+    background-color: #474747;
+    color: white;
+}
+
+a.selected {
+    color: #F7C41D ;
+}
+
+a.title {
+    color: #ffffff;
+}
+
+a.title font font {
+    color: #ffffff ;
+}
+
+a.toggler {
+    color: #d4ae17;
+}
+
+a.user-group {
+    color: #ffffff;
+}
+
+article.onebox-body {
+    background-color: #474747;
+}
+
+article.onebox-body h4 {
+    background-color: #474747;
+}
+
+aside.onebox.githubblob {
+    background-color: #474747;
+}
+
+aside.onebox.githubcommit {
+    background-color: #474747;
+}
+
+aside.onebox.githubissue {
+    background-color: #474747;
+}
+
+aside.onebox.githubpullrequest {
+    background-color: #474747;
+}
+
+aside.onebox.whitelistedgeneric {
+    background-color: #4a4a4a;
+}
+
+aside.quote blockquote {
+    background-color: #474747;
+}
+
+badge-type-bronze {
+}
+
+badge-type-silver {
+    border: 2px solid #9c9c9c ;
+}
+
+body #pagedown-editor {
+    background-color: #474747;
+}
+
+body .avatar-wrapper {
+    background-color: transparent;
+}
+
+body .page-not-found-topics .span8 {
+    background-color: #474747;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+body input[type="text"] {
+    border-color: #474747;
+    border-style: solid;
+    border-width: 1px;
+}
+
+body.docked {
+    background-color: #383738;
+    border-style: none;
+}
+
+btn btn-danger {
+    background-color: #007bff;
+}
+
+button.btn.btn-default {
+    background-color: #383738;
+    color: #F7C41D;
+}
+
+button.btn.btn-default:hover {
+    background-color: #F7C41D;
+    color: black;
+}
+
+button.btn.standard.dropdown-toggle:hover {
+    background-color: #ffffa6;
+    color: black;
+}
+
+button.create {
+    background-color: #F7C41D;
+    color: #080808;
+}
+
+button.ember-view.bookmark.btn.standard {
+    color: #000000;
+}
+
+button.ember-view.btn {
+    background-color: #6e6e6e ;
+    color: #ffffff;
+}
+
+button.ember-view.btn.btn-primary.create.standard {
+    color: #000000;
+}
+
+button.ember-view.btn.btn-primary.create.standard:hover {
+    background-color: #F7C41D;
+}
+
+button.ember-view.btn.standard {
+    background-color: #c9c9c9;
+    color: #000000;
+}
+
+button.ember-view.btn.standard:hover {
+    background-color: #F7C41D;
+    color: black;
+}
+
+button.ember-view.btn:hover {
+    background-color: #F7C41D;
+    color: #000000;
+}
+
+button.ember-view.flag-topic.btn.standard {
+    color: #000000;
+}
+
+button.ember-view.flag-topic.btn.standard:hover {
+    background-color: #F7C41D;
+    color: black;
+}
+
+button.ember-view.share.btn.standard {
+    color: #000000;
+}
+
+button.ember-view.share.btn.standard:hover {
+    color: black;
+}
+
+button.ember-view.star.btn.standard:hover {
+    background-color: #F7C41D;
+    color: black;
+}
+
+button.show-replies {
+    background-color: #dfbe58;
+    color: #000000;
+}
+
+button.show-replies:hover {
+    background-color: #F7C41D;
+}
+
+button.wmd-button {
+    color: #ffffff;
+}
+
+code.lang-auto {
+    background-color: #7d797d;
+    color: #ffffff;
+}
+
+code.lang-auto.hljs.css {
+    background-color: #3d3d3d;
+    color: #ffffff;
+}
+
+div#ember4922.ember-view.reply {
+    background-color: #474747;
+}
+
+div.ac-wrap.clearfix {
+    background-color: #474747;
+}
+
+div.actions {
+    background-color: #222;
+}
+
+div.bg {
+    background-color: rgba(0, 123, 255, 0.4);
+    color: #0f0e0f;
+}
+
+div.bootbox.modal.in {
+    background-color: #474747;
+}
+
+div.cat {
+    background-color: #474747;
+}
+
+div.category-description a {
+    color: #dfbe58;
+}
+
+div.container {
+    border-bottom-width: 1pxpx;
+    border-color: #292829 ;
+}
+
+div.container.badges h1 {
+    color: #ffffff;
+}
+
+div.container.show-badge h1 {
+    color: #F7C41D;
+}
+
+div.contents.clearfix.body-page {
+    background-color: #383738;
+}
+
+div.contents.clearfix.body-page h1 strong {
+    color: #ffffff;
+}
+
+div.contents.clearfix.body-page h2 strong {
+    color: #ffffff;
+}
+
+div.contents.clearfix.body-page h3 {
+    color: #ffffff;
+}
+
+div.contents.clearfix.body-page p {
+    color: #ffffff;
+}
+
+div.contents.clearfix.body-page ul li {
+    color: #ffffff;
+}
+
+div.controls.category-controls label {
+    color: #ffffff;
+}
+
+div.controls.controls-dropdown label {
+    color: #ffffff;
+}
+
+div.cooked {
+    color: #ffffff;
+}
+
+div.cooked blockquote {
+    background-color: #474747;
+}
+
+div.cooked details {
+    color: #ffffa6;
+}
+
+div.cooked p {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+div.cooked p a {
+    color: #F7C41D;
+}
+
+div.cooked p code {
+    background-color: #7d797d;
+    color: #ffffff;
+}
+
+div.cooked pre code {
+    background-color: #7d797d;
+    color: #ffffff;
+}
+
+div.cooked ul li {
+    color: #ffffa6;
+}
+
+div.date {
+    color: #ffffff;
+}
+
+div.desc {
+    color: #ffffff;
+}
+
+div.description {
+    color: #ffffff;
+}
+
+div.draft-text {
+    color: #c9c9c9;
+}
+
+div.education p {
+    color: #ffffff;
+}
+
+div.education p a {
+    color: #F7C41D;
+}
+
+div.education p a:hover {
+    color: #ffffa6;
+}
+
+div.ember-view.d-dropdown {
+    background-color: #474747;
+    border-style: none;
+}
+
+div.ember-view.period-chooser h2 {
+    color: #ffffff;
+}
+
+div.ember-view.pinned-options.btn-group p {
+    color: #ffffff;
+}
+
+div.ember-view.preview p {
+    color: #ffffff;
+}
+
+div.ember-view.private_message.category- {
+    background-color: #363636;
+}
+
+div.ember-view.processed.open.hide-preview {
+    background-color: #7a7a7a;
+}
+
+div.ember-view.processed.open.show-preview {
+    background-color: #6b6b6b;
+}
+
+div.ember-view.processed.show-preview.open {
+    background-color: #666466;
+}
+
+div.ember-view.reply {
+    background-color: #474747;
+}
+
+div.ember-view.show-badges {
+    background-color: #474747;
+}
+
+div.ember-view.show-badges.hidden {
+    background-color: #474747;
+}
+
+div.ember-view.title {
+    background-color: #142833;
+    border-style: solid;
+    border-color: #142833;
+    border-bottom-width: 5px;
+}
+
+div.ember-view.title a {
+    background-color: #142833;
+}
+
+div.ember-view.user-small {
+    background-color: #383738;
+}
+
+div.face {
+    color: #ffffff;
+}
+
+div.github-commit-stats {
+    color: #ffffff;
+}
+
+div.github-commit-stats strong {
+    color: #ffffff;
+}
+
+div.grippie {
+    background-color: #4a4a4a;
+}
+
+div.inline-diff h1 {
+    color: #ffffff;
+}
+
+div.inline-diff h2 {
+    color: #ffffff;
+}
+
+div.inline-diff h3 {
+    color: #ffffff;
+}
+
+div.inline-diff p {
+    color: #ffffff;
+}
+
+div.inline-diff p del {
+    background-color: #474747;
+}
+
+div.inline-diff p ins {
+    background-color: #474747;
+}
+
+div.inline-diff ul li {
+    color: #dedede;
+}
+
+div.inner h1 {
+    color: #ffffff;
+}
+
+div.inner h1 a {
+    color: #ffffff;
+}
+
+div.instructions {
+    color: #bdbdbd;
+}
+
+div.item {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+div.item.notification {
+    background-color: #474747;
+}
+
+div.modal-body {
+    background-color: #292929;
+    color: #ffffff;
+}
+
+div.modal-footer {
+    border-color: #ffffff;
+    border-style: none;
+}
+
+div.modal-header {
+    border-style: none;
+}
+
+div.modal-header h3 {
+    background-color: #474747;
+}
+
+div.modal-inner-container {
+    background-color: #757575;
+}
+
+div.nums {
+    color: #3b393b;
+}
+
+div.nums h4 {
+    color: #f5f5f5;
+}
+
+div.nums span {
+    color: #ffffff;
+}
+
+div.nums span h4 {
+    color: #ffffff;
+}
+
+div.nums span span {
+    color: #ffffff;
+}
+
+div.post-action {
+    color: #856a19;
+}
+
+div.reason {
+    color: #ffffff;
+}
+
+div.reply-to {
+    color: #ffffff;
+}
+
+div.reply-to a {
+    color: #ffffff;
+}
+
+div.search-context label {
+    color: #cf9e38;
+}
+
+div.secondary dl dd {
+    color: #ffffff;
+}
+
+div.secondary dl dt {
+    color: #ebb923 ;
+}
+
+div.select2-drop-mask {
+    background-color: #474747;
+}
+
+div.select2-search {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+div.span10.page-not-found-search h2 {
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+div.span6 h4 {
+    color: #ffffff;
+}
+
+div.span6 ul li {
+    color: #ffffff;
+}
+
+div.span8 h1 {
+    color: #ffffff;
+}
+
+div.span8 h2 {
+    color: #ffffff;
+}
+
+div.span8 h3 {
+    color: #ffffff;
+}
+
+div.span8 p {
+    color: #ffffff;
+}
+
+div.span8 p del {
+    background-color: #474747;
+}
+
+div.span8 ul li {
+    color: #dedede;
+}
+
+div.span8.offset1 p ins {
+    background-color: #474747;
+}
+
+div.span8.popular-topics span a {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+div.span8.recent-topics span a {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+div.spinner {
+    background-image: url(http://www.lettersmarket.com/uploads/lettersmarket/blog/loaders/common_metal/ajax_loader_metal_512.gif) ;
+    margin-bottom: 5 px;
+}
+
+div.status {
+    background-color: #474747;
+}
+
+div.title {
+    background-color: #474747;
+    color: #bdbbbd;
+}
+
+div.title-wrapper h1 a {
+    color: #F7C41D;
+}
+
+div.title.span13 {
+    background-color: #142833 ;
+}
+
+div.title.span13 a {
+    background-color: #142833;
+}
+
+div.topic-body {
+    color: #ffffff;
+}
+
+div.topic-error div {
+    color: #ffffff;
+}
+
+div.topic-excerpt {
+    color: #ffffff;
+}
+
+div.topic-excerpt a {
+    color: #c7c149;
+}
+
+div.topics-loading {
+    background-color: #383738;
+    color: #ffffff;
+}
+
+div.url {
+    color: #ffffff;
+}
+
+div.wmd-button-bar {
+    background-color: #474747;
+}
+
+ember-view:hover {
+    background-color: #ff00ff;
+}
+
+footer.topic-list-bottom h3 {
+    color: #856a19;
+}
+
+form.form-horizontal {
+    background-color: #474747;
+}
+
+h1.diff-del {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+h1.page-not-found {
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+h2.ember-view {
+    color: #F7C41D;
+}
+
+h2.popular-topics-title {
+    margin-left: 10px;
+}
+
+h2.recent-topics-title {
+    margin-left: 10px;
+}
+
+h3.diff-del {
+    background-color: #474747;
+}
+
+h3.diff-ins {
+    background-color: #474747;
+}
+
+h3.ember-view a {
+    color: #ffffff;
+}
+
+header.d-header {
+    background-color: #142833;
+    border-bottom: #007bff solid 2px ;
+}
+
+header.ember-view.d-header.clearfix {
+    background-color: #142833;
+    border-bottom: #007bff solid 2px ;
+    border-color: #007bff;
+}
+
+header.source a {
+    color: #ffffff;
+}
+
+html.desktop-view.not-mobile-device.js.no-touch.discourse-no-touch {
+    background-color: #383738;
+}
+
+i.fa.fa-bars {
+    color: #F7C41D;
+}
+
+i.fa.fa-caret-down {
+    color: #F7C41D;
+}
+
+i.fa.fa-check {
+    color: #F7C41D ;
+}
+
+i.fa.fa-comment {
+    color: #F7C41D;
+}
+
+i.fa.fa-lock {
+    color: #F7C41D;
+}
+
+i.fa.fa-reply {
+    color: #000000;
+}
+
+i.fa.fa-search {
+    color: #F7C41D;
+}
+
+i.fa.fa-shield {
+    color: #d1d1d1;
+}
+
+i.fa.fa-sort {
+    color: #ffffff;
+}
+
+i.fa.fa-thumb-tack {
+    color: #F7C41D;
+}
+
+i.fa.fa-times {
+    color: #F7C41D;
+}
+
+i.fa.fa-times:hover {
+    color: #000000;
+}
+
+i.glyph.fa.fa-bookmark {
+    color: transparent;
+}
+
+i.glyph.fa.fa-bookmark:hover {
+    color: #000000;
+}
+
+i.glyph.fa.fa-certificate {
+    color: transparent;
+}
+
+i.glyph.fa.fa-comment {
+    color: transparent;
+}
+
+i.glyph.fa.fa-heart {
+    color: transparent;
+}
+
+i.glyph.fa.fa-pencil {
+    color: transparent;
+}
+
+i.glyph.fa.fa-reply {
+    color: transparent;
+}
+
+i.icon.fa.fa-bookmark {
+    color: #F7C41D;
+}
+
+img.logo-big {
+    background-color: #142833;
+}
+
+input.ember-view.ember-text-field {
+    background-color: #d3d3d3;
+    color: #383738;
+}
+
+label.checkbox-label {
+    color: #ffffff;
+}
+
+label.control-label {
+    color: #ffffff;
+}
+
+label.radio {
+    color: #ffffff;
+}
+
+label.radio strong {
+    color: #ffffff;
+}
+
+li.ember-view a p {
+    color: #000000;
+}
+
+li.ember-view a:hover {
+    background-color: #F7C41D;
+    color: #000000;
+}
+
+li.ember-view.active a {
+    color: #ffffff;
+}
+
+li.ember-view.no-glyph a {
+    background-color: #474747;
+    color: #F7C41D;
+}
+
+li.ember-view.no-glyph a:hover {
+    background-color: #F7C41D;
+    color: black;
+}
+
+li.ember-view.read a {
+    background-color: #474747;
+}
+
+li.ember-view.read a p {
+    background-color: transparent;
+    color: #d2d2d2;
+}
+
+li.ember-view.read a p:hover {
+    color: white;
+}
+
+li.nav-item-faq a {
+    color: #ffffff;
+}
+
+li.nav-item-privacy a {
+    color: #ffffff;
+}
+
+li.nav-item-tos a {
+    color: #ffffff;
+}
+
+li.read.last a p {
+    background-color: #474747;
+}
+
+ol li code {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+ol.start.lines li {
+    background-color: #7d797d ;
+    color: #000000;
+}
+
+p.diff-del {
+    background-color: #474747;
+}
+
+p.diff-ins {
+    background-color: #474747;
+}
+
+p.diff-ins img {
+    background-color: #474747;
+}
+
+p.excerpt {
+    color: #ffffff;
+}
+
+p.hint {
+    color: #ffffff;
+}
+
+pre code p {
+    color: #000000;
+}
+
+pre.onebox code ol.lines li:before {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+preview {
+    background-color: #474747;
+}
+
+section.about h2 {
+    color: #ffffff;
+}
+
+section.about p {
+    color: #ffffff;
+}
+
+section.about.admins h3 {
+    color: #ffffff;
+}
+
+section.about.contact h3 {
+    color: #ffffff;
+}
+
+section.about.moderators h3 {
+    color: #ffffff;
+}
+
+section.about.stats h3 {
+    color: #ffffff;
+}
+
+section.d-dropdown {
+    background-color: #474747;
+    border-style: none;
+}
+
+section.ember-view.information {
+    background-color: #696969;
+}
+
+section.user-content {
+    background-color: #474747;
+    border-style: none;
+    color: #ffffff;
+    margin-top: 0;
+}
+
+section.user-content h2 {
+    color: #ffffff;
+}
+
+section.user-navigation h3 {
+    color: #F7C41D;
+}
+
+span.badge-category.clear-badge {
+    color: #F7C41D ;
+}
+
+span.badge-posts {
+    color: #000000;
+}
+
+span.badge-wrapper a {
+    color: #ffffff;
+}
+
+span.badge.new-posts.badge-notification {
+    background-color: #F7C41D;
+    color: #000000;
+    font-weight: bold;
+}
+
+span.count:hover {
+    color: #ffffff;
+}
+
+span.desc {
+    color: #F7C41D;
+}
+
+span.description {
+    color: #ffffff;
+}
+
+span.domain {
+    color: #ffffff;
+}
+
+span.edit-reason {
+    background-color: transparent;
+}
+
+span.ember-view {
+    color: #ffffff;
+}
+
+span.ember-view.user-badge.badge-type-bronze {
+    border: 2px solid #cd7f32 ;
+    color: #ffffff;
+}
+
+span.ember-view.user-badge.badge-type-gold {
+    color: #ffffff;
+}
+
+span.ember-view.user-badge.badge-type-silver {
+    border: 2px solid #c0c0c0 ;
+    color: #ffffff;
+}
+
+span.error {
+    color: #ffffff;
+}
+
+span.fa.fa-chevron-right {
+    background-color: transparent;
+}
+
+span.hint {
+    color: #ffffff;
+}
+
+span.hljs-comment {
+    color: #ffffff;
+}
+
+span.loading {
+    color: #ffffff;
+}
+
+span.number {
+    color: #bfbfbf;
+}
+
+span.number.null {
+    color: #8f8f8f;
+}
+
+span.relative-date {
+    color: #bfbfbf;
+}
+
+span.relative-date.date {
+    color: #ffffff;
+}
+
+span.static {
+    color: #ffffff;
+}
+
+span.time {
+    color: #fcfcfc;
+}
+
+span.title a {
+    color: #ebb923;
+}
+
+span.user-badge {
+    background-color: transparent;
+}
+
+span.user-badge.badge-type-bronze {
+    background-color: transparent;
+}
+
+span.user-title {
+    background-color: #0073ff;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 0;
+    color: #ffffff;
+    font-variant: normal;
+    font-weight: normal;
+    padding-left: 6px;
+    padding-right: 6px;
+    text-transform: none;
+}
+
+span.username {
+    color: #ffffff;
+}
+
+span.username a {
+    color: #F7C41D;
+}
+
+span.username.Documenter {
+    color: #ffffff;
+}
+
+span.username.Documenter::after {
+    color: #ffffff;
+}
+
+table.topic-list {
+    background-color: #000000;
+}
+
+tbody tr td {
+    color: #ffffff;
+}
+
+tbody tr th {
+    color: #ffffff;
+}
+
+td.description a {
+    color: #F7C41D;
+}
+
+td.diff-del {
+    background-color: #474747;
+}
+
+td.diff-del del {
+    background-color: #474747;
+}
+
+td.diff-ins {
+    background-color: #474747;
+}
+
+td.diff-ins ins {
+    background-color: #474747;
+}
+
+td.ember-view.num.activity {
+    background-color: #292829;
+}
+
+td.star {
+    background-color: #474747;
+}
+
+textarea.ember-view.ember-text-area {
+    background-color: #383738;
+    color: #ffffff;
+}
+
+th.category {
+    background-color: #292829;
+    border-color: #292829;
+    border-style: none;
+    border-top-width: 1px;
+    color: #ffffff;
+}
+
+th.default {
+    background-color: #292829;
+    border-style: none;
+    color: #ffffff;
+}
+
+th.ember-view.category.sortable {
+    background-color: #292829;
+}
+
+th.ember-view.default {
+    color: #ffffff;
+}
+
+th.ember-view.default.sorting.sortable {
+    background-color: #292829;
+}
+
+th.ember-view.num.activity.sortable {
+    background-color: #292829;
+    color: #ffffff;
+}
+
+th.ember-view.num.posts.sortable {
+    background-color: #292829;
+    color: #ffffff;
+}
+
+th.ember-view.num.views.sortable {
+    background-color: #292829;
+    color: #ffffff;
+}
+
+th.ember-view.posters {
+    color: #ffffff;
+}
+
+th.ember-view.sortable {
+    color: #ffffff;
+}
+
+th.latest {
+    color: #ffffff;
+}
+
+th.num.activity {
+    background-color: #292829;
+    color: #ffffff;
+}
+
+th.num.posts {
+    background-color: #292829;
+    color: #ffffff;
+}
+
+th.num.views {
+    background-color: #292829;
+    color: #ffffff;
+}
+
+th.posters {
+    color: #ffffff;
+}
+
+th.stats.topics {
+    color: #ffffff;
+}
+
+thead tr th {
+    background-color: #292829;
+}
+
+tr td label {
+    color: #ffffff;
+}
+
+ul li a:hover {
+    background-color: #6b6b6b;
+}
+
+ul li code {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+ul.action-list.nav-stacked {
+    background-color: #474747;
+}
+
+ul.diff-ins.diff-ins li {
+    background-color: #474747;
+}
+
+ul.dropdown-menu li a {
+    background-color: #474747;
+}
+
+ul.dropdown-menu li a:hover {
+    background-color: #ffffa6;
+    color: #F7C41D;
+}
+
+ul.select2-results {
+    background-color: #474747;
+    color: #ffffff;
+}
+
+user-badge {
+    border: 2px solid #ffd700 ;
+}
+
+.topic-list>tbody>tr:first-of-type {
+    border-style: none;
+}
+
+.topic-list>tbody>tr {
+    border-style: none;
+}
+
+.list-controls .category-breadcrumb li.bullet>.badge-category {
+    background-color: #474747;
+    color: white;
+}
+
+.dropdown-menu .disabled>a, .dropdown-menu .disabled>a:hover {
+    color: white;
+    background-color: #474747;
+}
+
+.fa.muted {
+    color: #856a19;
+}
+
+.fa.tracking {
+    color: #856a19;
+}
+
+.fa.tracking:hover {
+    color: #d7ad2d;
+}
+
+.fa.tracking a:hover {
+    color: #d7ad2d;
+}
+
+span.icon.fa.fa-circle.tracking {
+    color: #d7ad2d;
+}
+
+span.icon.fa.fa-circle-o.regular {
+    color: #d7ad2d;
+}
+
+span.icon.fa.fa-times-circle.muted {
+    color: #d7ad2d;
+}
+
+span.title {
+    color: #d7ad2d;
+}
+
+a div span {
+    color: #d7ad2d;
+}
+
+.badge-wrapper.bullet span.badge-category {
+    color: white;
+}
+
+span.badge-category-bg {
+    line-height: 24px;
+}
+
+.badge-wrapper.bullet .badge-category-parent-bg, .badge-wrapper.bullet .badge-category-bg {
+    position: relative;
+    top: 6px;
+}
+
+div.extra-info-wrapper {
+    background-color: #142833;
+}
+
+.d-header .panel {
+    background-color: #142833;
+    border-color: #142833;
+    border-style: solid;
+    border-bottom-width: 5px;
+}
+
+div.wrap {
+}
+
+body.docked.categories-list {
+    background-color: #474747;
+}
+
+body.docked.categories-list hr {
+    border-style: none;
+}
+
+.nav-pills>li>a {
+    background-color: #383738;
+}
+
+button.create.fade-out {
+    position: relative;
+    height: 35px;
+}
+
+section.avatars.clearfix h3 {
+    color: white;
+}
+
+section.avatars.clearfix {
+    background-color: #222;
+    border-color: #696969;
+}
+
+section.links h3 {
+    color: white;
+}
+
+section.links {
+    background-color: #222;
+    border-color: #696969;
+}
+
+ul.clearfix {
+    background-color: #222;
+    color: #382838;
+}
+
+.topic-map {
+    border-color: #696969;
+}
+
+.topic-map section {
+    border-color: #696969;
+    border-top-width: 1px;
+}
+
+nav.post-controls .highlight-action {
+    position: relative;
+    height: 35px;
+    margin: 0px;
+}
+
+nav.post-controls button.like {
+    position: relative;
+    height: 35px;
+    margin-left: 0px;
+}
+
+nav.post-controls button {
+    position: relative;
+    height: 35px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+button.btn {
+    position: relative;
+    height: 35px;
+    border-color: #696969;
+    background-color: #F7C41D;
+}
+
+div.row {
+    background-color: #474747;
+}
+
+li.ember-view a {
+    color: #F7C41D;
+}
+
+.menu-panel {
+    background-color: #222;
+}
+
+a.badge-notification.unread-notifications {
+    color: #ffffff;
+}
+
+div.wmd-preview.cooked {
+    background-color: #474747;
+}
+
+a.toggle-preview {
+    color: #F7C41D;
+}
+
+body.docked.category-plugins.archetype-regular hr {
+    border-style: none;
+}
+
+body.docked.category-plugins.archetype-regular {
+    display: none;
+}
+
+body.category-plugins.docked hr {
+    border-style: none;
+    margin: 0;
+}
+
+li.read.last {
+    background-color: #222;
+}
+
+.user-menu .notifications .read {
+    background-color: #222;
+}
+
+li.read.last a:hover {
+    color: #ffffa6;
+    background-color: transparent;
+}
+
+button.btn.standard.dropdown-toggle {
+    background-color: #6b676b;
+    top: -10px;
+    z-index: 2;
+}
+
+div.ember-view.notification-options.btn-group p {
+    color: #ffffa6;
+    position: relative;
+    top: -10px;
+}
+
+div.secondary dl {
+    background-color: #222;
+    border-bottom: 2px solid #007bff ;
+    color: #ffffff;
+}
+
+body.docked.archetype-regular.category-plugins-plugin-discussion hr {
+    border-style: none;
+    margin: 0;
+}
+
+li.ember-view.no-glyph.active a {
+    color: #c2c2c2 ;
+}
+
+li.ember-view.no-glyph.active a:hover {
+    color: #ffffff;
+}
